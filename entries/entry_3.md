@@ -8,6 +8,7 @@
 #### This will change the empty Square component to consist of numbers passed from the Board component. As shown below:
 <img src="../imgs/tictac-empty.png"/>
 <img src="../imgs/tictac-numbers.png"/>
+
 #### Most of the week consisted of working and understanding the Tic Tac Toe game as I coded it along with the steps provided. Similar to rspec in Ruby, it felt nice being able to watch red errors pop up and dissappear as I attempted to fix them. Error messages in the code pen were helpful as they pointed at specific line errors and this code pen allowed the ability to go backwards to when the code did not have the error.
 
 ### Takeaways
