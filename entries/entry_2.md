@@ -1,6 +1,6 @@
 # Entry 2
 ## Transitioning to a New Topic
-##### Well, in the course of the week I have learned that it was becoming difficult for me to find tutorials for D3.js that I actually understood. I thought that if I had perservered and continued to just read article after article of D3.js then I would slowly begin understanding but no matter how many articles I went through my desire to persevere slowly started to diminish. Thus, I decided to look for other topics that were still non-Ruby and was related to Javascript.
+##### Well, in the course of the week I have learned that it was becoming difficult for me to find tutorials for D3.js that I actually understood. I thought that if I had persevered and continued to just read article after article of D3.js then I would slowly begin understanding but no matter how many articles I went through my desire to persevere slowly started to diminish. Thus, I decided to look for other topics that were still non-Ruby and was related to Javascript.
 
 ##### Thanks to exploring other blog entries I was able to see different experiences on different topics. With this exploration, I found an interest in React.js mainly because certain blog entries held a lot of helpful links to articles on the basics of React.js. Leaving behind D3.js occurred once I learned that there was a codecademy tutorial for React.js. Therefore, choosing React over D3 because of the opportunity of finding a tutorial that I know I will learn off of.
 
@@ -10,7 +10,7 @@
 
 #### A Simple Component
 ##### React components use a render() method. It takes in input data (in the example below, it takes in the string "Jane") and then returns whatever it is that needs to be displayed (in the example below, the string is replaced for the name under ```this.props.name```, which comes after "Hello ".). 
-##### The example given by [React](https://facebook.github.io/react/), uses a syntax called JSX. Any input data that is being passed into the component woukd be accessed by render() through ```this.props```.
+##### The example given by [React](https://facebook.github.io/react/), uses a syntax called JSX. Any input data that is being passed into the component would be accessed by render() through ```this.props```.
 ```
 class HelloMessage extends React.Component {
   render() {
