@@ -22,7 +22,7 @@ A JSX attribute is written using HTML-like syntax:
 A JSX expression must have exactly one outermost element.
 An easy fix that I learned is to just wrap the expression in a ``` <div></div> ```.
 
-<img src="../imgs/JSXexpression.jpg"/>
+<img src="../imgs/JSXexpression.png"/>
 
 ReactDOM is the name of a JavaScript library. The library contains React methods, all of which use the DOM in some way or another.
 
@@ -32,7 +32,7 @@ ReactDOM.render is the most common way to render JSX. Rendering is what makes th
 ``` <h1>Hello world</h1> ``` is the first argument being passed into ReactDOM.render
 The first argument is appended to whatever element is selected by the second argument. In this case, the selected second argument, for this example, is the ID ‘app’ taken from the HTML file.
 
-<img src="../imgs/reactDOM.jpg"/>
+<img src="../imgs/reactDOMrender.png"/>
 
 The correct steps in which JSX renders (learned from Codecademy's quiz):
 - A JSX element renders.
