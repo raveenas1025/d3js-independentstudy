@@ -10,6 +10,8 @@ One of the key things that I have learned of React is the value of ```this.props
 
 An example of ```this.props```, using the [starting code](https://codepen.io/ericnakagawa/pen/vXpjwZ?editors=0010), is changing ```renderSquare``` method within the Board component to return ```<Square value={i} />```. Then within the the Square component's render method, replace ```{/* TODO */}``` with ```{this.props.value}```.
 This will change the empty Square component to consist of numbers passed from the Board component. As shown below:
+
+
 <img src="../imgs/tictac-empty.png"/>
 <img src="../imgs/tictac-numbers.png"/>
 
