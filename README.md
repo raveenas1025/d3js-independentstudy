@@ -6,4 +6,4 @@
 - [Entry 3: Tic Tac Toe with React.js](entries/entry_3.md)
 - [Entry 4: Learning from Codecademy](entries/entry_4.md)
 - [Entry 5:]
-- [Entry 6: What To Do?](entries/entry_6.)
+- [Entry 6: What To Do?](entries/entry_6.md)
