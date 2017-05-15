@@ -7,3 +7,4 @@
 - [Entry 4: Learning from Codecademy](entries/entry_4.md)
 - [Entry 5:]
 - [Entry 6: What To Do?](entries/entry_6.md)
+- [Entry 7: What To Do? (Cont.)](entries/entry_7.md)

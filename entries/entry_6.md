@@ -11,7 +11,7 @@ I know that at one point I’ll probably be making something that was inspired b
 
 I’ve had a couple of small ideas but I just feel like they’re necessarily practical or useful in any means. They’re more for fun and creativity purposes. But maybe I’ll end up using one of those ideas because I don’t know if I’ll find something practical or useful. Who knows, maybe creativity is where my independent study will come to use.
 
-#### Book-o-mmender
+####Book-o-mmender
 
 Looking back at past projects, [http://book-o-mmender.herokuapp.com/](Book-o-mmender) is probably that one I am most proud of. It is something that I find both creative and practical. This website could be made better with React. There could be faster, efficient and prettier things that could be done to the website. It could have fading effect when the user goes to a different page. The ratings sections could have stars and user interaction such as being able to rate a specific book.
 
